@@ -1,9 +1,9 @@
-#Nombre del proyecto: Conversor de Moneda
-##Descripción: Es un proyecto de converit moneda  
-##Prerrequisitos (tecnologías a instalar):
+# Nombre del proyecto: Conversor de Moneda
+## Descripción: Es un proyecto de converit moneda  
+## Prerrequisitos (tecnologías a instalar):
 Instalar un compilador c/++
  
-###Pasos para su ejecución: 
+### Pasos para su ejecución: 
 1.Seleccionar la moneda origien
 2. Seleccionar la moneda destino
 3. Ingresar el monto a convertir
